@@ -1,0 +1,8 @@
+{
+  "name": "demo AquaHabit Today",
+  "description": "A Duolingo-styled gamified Today dashboard featuring an interactive aquarium pet module, health metrics, focus tasks, and activity insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
